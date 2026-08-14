@@ -19,13 +19,6 @@
     <img alt="Email me" src="assets/btn-email-light.svg">
   </picture>
 </a>
-<a href="https://github.com/mgabriel23?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-repos-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/btn-repos-light.svg">
-    <img alt="Browse my repositories" src="assets/btn-repos-light.svg">
-  </picture>
-</a>
 </p>
 
 <picture>
@@ -116,5 +109,3 @@ _Open to opportunities._
 - **AI Tools:** Claude, ChatGPT
 
 </details>
-
-<sub>Designed and built by Mark Bryan Gabriel. Assets generated from <code>build.py</code> — edit <code>content.py</code> and re-run to update.</sub>
