@@ -12,13 +12,6 @@
     <img alt="View my portfolio at itsmebryle.com" src="assets/btn-portfolio-light.svg">
   </picture>
 </a>
-<a href="mailto:mrkbryngbrl@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg">
-    <img alt="Email me" src="assets/btn-email-light.svg">
-  </picture>
-</a>
 </p>
 
 <picture>
