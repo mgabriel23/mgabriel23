@@ -78,34 +78,3 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/connect-light.svg">
   <img alt="Open to senior full-stack roles and freelance work. Email mrkbryngbrl@gmail.com, portfolio itsmebryle.com, based in Manila, Philippines." src="assets/connect-light.svg" width="880">
 </picture>
-
-<details>
-<summary>Prefer plain text? Expand the text version.</summary>
-
-**Mark Bryan Gabriel** — Full Stack Web Developer  
-Manila, Philippines · [itsmebryle.com](https://itsmebryle.com) · [mrkbryngbrl@gmail.com](mailto:mrkbryngbrl@gmail.com)  
-_Open to opportunities._
-
-**Experience**
-
-- **PHP SQL Developer**, Nityo Infotech Services Philippines Inc. — Aug 2024 — May 2026  
-  Core PHP and SQL features, responsive microsites in React and Python, AWS deployments.
-- **College IT Instructor**, Global Reciprocal Colleges — Jun 2024 — May 2026  
-  Taught BSIT coursework and mentored students through hands-on software projects.
-- **Jr. Software Programmer**, Alliedbankers Insurance Corporation — Jun 2019 — Apr 2024  
-  Maintained core applications and built internal tools that automated manual work.
-
-**Projects**
-
-- **[resum.io](https://resume.itsmebryle.com/)** (HTML, CSS, JavaScript) — An intuitive resume builder designed to pass Applicant Tracking Systems and get your application into human hands.
-- **[sense](https://chromewebstore.google.com/search/sense%20multi%20screen%20preview)** (HTML, CSS, JavaScript, Chrome Extension) — Lets front-end developers preview a site across mobile, tablet, laptop and desktop screens all at once.
-
-**Skills**
-
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery, PWA
-- **Back-end:** PHP, MySQL, Node.js, Python
-- **Cloud & DevOps:** AWS, Git
-- **Design:** Figma, Photoshop, UI/UX Principles
-- **AI Tools:** Claude, ChatGPT
-
-</details>
