@@ -35,7 +35,7 @@
 <a href="https://3290.itsmebryle.com/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/project--light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-3-light.svg">
     <img alt="3290 — A 2D space shooter game: from which a player picks Mission Mode (a 50-level, 10-chapter
 campaign) or Survival Mode (an endless loop which is harder every pass)." src="assets/project-3-light.svg" width="880">
   </picture>
