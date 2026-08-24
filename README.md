@@ -32,11 +32,12 @@
   <img alt="Projects" src="assets/section-projects-light.svg" width="880">
 </picture>
 
-<a href="https://resume.itsmebryle.com/">
+<a href="https://3290.itsmebryle.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
-    <img alt="resum.io — An intuitive resume builder designed to pass Applicant Tracking Systems and get your application into human hands." src="assets/project-1-light.svg" width="880">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project--light.svg">
+    <img alt="3290 — A 2D space shooter game: from which a player picks Mission Mode (a 50-level, 10-chapter
+campaign) or Survival Mode (an endless loop which is harder every pass)." src="assets/project-3-light.svg" width="880">
   </picture>
 </a>
 
@@ -45,6 +46,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-2-light.svg">
     <img alt="sense — Lets front-end developers preview a site across mobile, tablet, laptop and desktop screens all at once." src="assets/project-2-light.svg" width="880">
+  </picture>
+</a>
+
+<a href="https://resume.itsmebryle.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
+    <img alt="resum.io — An intuitive resume builder designed to pass Applicant Tracking Systems and get your application into human hands." src="assets/project-1-light.svg" width="880">
   </picture>
 </a>
 
