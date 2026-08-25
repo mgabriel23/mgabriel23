@@ -64,9 +64,9 @@ campaign) or Survival Mode (an endless loop which is harder every pass)." src="a
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img alt="Front-end: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery, PWA; Back-end: PHP, MySQL, Node.js, Python; Cloud & DevOps: AWS, Git; Design: Figma, Photoshop, UI/UX Principles; AI Tools: Claude, ChatGPT" src="assets/skills-light.svg" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark-icon.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light-icon.svg">
+  <img alt="Front-end: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery, PWA; Back-end: PHP, MySQL, Node.js, Python; Cloud & DevOps: AWS, Git; Design: Figma, Photoshop, UI/UX Principles; AI Tools: Claude, ChatGPT" src="assets/skills-light-icon.svg" width="880">
 </picture>
 
 <picture>
