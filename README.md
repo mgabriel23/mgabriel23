@@ -58,12 +58,6 @@ campaign) or Survival Mode (an endless loop which is harder every pass)." src="a
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-connect-light.svg">
-  <img alt="Connect" src="assets/section-connect-light.svg" width="880">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-experience-dark-updated.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/section-experience-light-updated.svg">
   <img alt="Experience" src="assets/section-experience-light.svg" width="880">
@@ -73,6 +67,12 @@ campaign) or Survival Mode (an endless loop which is harder every pass)." src="a
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
   <img alt="PHP SQL Developer at Nityo Infotech Services Philippines Inc., Aug 2024 — May 2026; College IT Instructor at Global Reciprocal Colleges, Jun 2024 — May 2026; Jr. Software Programmer at Alliedbankers Insurance Corporation, Jun 2019 — Apr 2024" src="assets/experience-light.svg" width="880">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-connect-light.svg">
+  <img alt="Connect" src="assets/section-connect-light.svg" width="880">
 </picture>
 
 <picture>
