@@ -20,7 +20,7 @@
   <img alt="Projects" src="assets/section-projects-light.svg" width="880">
 </picture>
 
-<a href="https://3290.itsmebryle.com/">
+<a href="https://3290.itsmebryle.com/" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-3-light.svg">
@@ -29,7 +29,7 @@ campaign) or Survival Mode (an endless loop which is harder every pass)." src="a
   </picture>
 </a>
 
-<a href="https://chromewebstore.google.com/search/sense%20multi%20screen%20preview">
+<a href="https://chromewebstore.google.com/search/sense%20multi%20screen%20preview" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-2-light.svg">
@@ -37,7 +37,7 @@ campaign) or Survival Mode (an endless loop which is harder every pass)." src="a
   </picture>
 </a>
 
-<a href="https://resume.itsmebryle.com/">
+<a href="https://resume.itsmebryle.com/" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
