@@ -1,82 +1,69 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Mark Bryan Gabriel — Full Stack Web Developer. Open to opportunities, based in Manila, Philippines." src="assets/hero-light.svg" width="880">
-</picture>
+<div align="center">
 
-<p>
-<a href="https://itsmebryle.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/btn-portfolio-light.svg">
-    <img alt="View my portfolio at itsmebryle.com" src="assets/btn-portfolio-light.svg">
-  </picture>
-</a>
-</p>
+# MARK BRYAN GABRIEL
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark-updated.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-projects-light-updated.svg">
-  <img alt="Projects" src="assets/section-projects-light.svg" width="880">
-</picture>
+**Full Stack Web Developer** <br>
+*Seven years of PHP and JavaScript — building tools teams rely on daily.*
 
-<a href="https://3290.itsmebryle.com/" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-3-light.svg">
-    <img alt="3290 — A 2D space shooter game: from which a player picks Mission Mode (a 50-level, 10-chapter
-campaign) or Survival Mode (an endless loop which is harder every pass)." src="assets/project-3-light.svg" width="880">
-  </picture>
-</a>
+[Portfolio](https://itsmebryle.com/) &nbsp;&middot;&nbsp; [Resume](https://itsmebryle.com/assets/resume.pdf) &nbsp;&middot;&nbsp; [Email](mailto:mrkbryngbrl@gmail.com) &nbsp;&middot;&nbsp; [Phone](tel:+639273243042)
 
-<a href="https://chromewebstore.google.com/search/sense%20multi%20screen%20preview" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-2-light.svg">
-    <img alt="sense — Lets front-end developers preview a site across mobile, tablet, laptop and desktop screens all at once." src="assets/project-2-light.svg" width="880">
-  </picture>
-</a>
+</div>
 
-<a href="https://resume.itsmebryle.com/" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
-    <img alt="resum.io — An intuitive resume builder designed to pass Applicant Tracking Systems and get your application into human hands." src="assets/project-1-light.svg" width="880">
-  </picture>
-</a>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-skills-dark-updated.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-skills-light-updated.svg">
-  <img alt="Skills" src="assets/section-skills-light.svg" width="880">
-</picture>
+### 01 &nbsp;|&nbsp; ABOUT
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark-icon.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light-icon.svg">
-  <img alt="Front-end: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery, PWA; Back-end: PHP, MySQL, Node.js, Python; Cloud & DevOps: AWS, Git; Design: Figma, Photoshop, UI/UX Principles; AI Tools: Claude, ChatGPT" src="assets/skills-light-icon.svg" width="880">
-</picture>
+I am a full stack developer based in Manila, Philippines. I specialize in taking complex business problems and turning them into simple, scalable systems. With a background in enterprise insurance applications and college instruction, I value code that is not just functional, but maintainable and well-documented.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-experience-dark-updated.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-experience-light-updated.svg">
-  <img alt="Experience" src="assets/section-experience-light.svg" width="880">
-</picture>
+I am currently open to senior product-engineering roles and selective freelance work.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
-  <img alt="PHP SQL Developer at Nityo Infotech Services Philippines Inc., Aug 2024 — May 2026; College IT Instructor at Global Reciprocal Colleges, Jun 2024 — May 2026; Jr. Software Programmer at Alliedbankers Insurance Corporation, Jun 2019 — Apr 2024" src="assets/experience-light.svg" width="880">
-</picture>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/section-connect-light.svg">
-  <img alt="Connect" src="assets/section-connect-light.svg" width="880">
-</picture>
+### 02 &nbsp;|&nbsp; CORE STACK
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/connect-light.svg">
-  <img alt="Open to senior full-stack roles and freelance work. Email mrkbryngbrl@gmail.com, portfolio itsmebryle.com, based in Manila, Philippines." src="assets/connect-light.svg" width="880">
-</picture>
+*The tools I use to ship production systems.*
+
+| **Frontend** | **Backend** | **Tools & Cloud** |
+| :--- | :--- | :--- |
+| JavaScript (ES6+) | PHP | Git & GitHub |
+| TypeScript | MySQL | AWS |
+| React | Node.js | Figma |
+| HTML / CSS | Python | Photoshop |
+
+---
+
+### 03 &nbsp;|&nbsp; SELECTED WORK
+
+> *A few things I've built and shipped.*
+
+#### 🧠 &nbsp;[sense](https://chromewebstore.google.com/detail/jfdgdlnpgfhdlkgficlfbfkcmpfnilke)
+A Chrome extension designed to improve reading comprehension and focus.
+`Chrome Extension` &nbsp; `JavaScript`
+
+#### 📄 &nbsp;[resum.io](https://resum.io.itsmebryle.com/)
+A self-shipped tool for generating and managing resumes with clean typography and export options.
+`Web App` &nbsp; `JavaScript`
+
+#### 🤝 &nbsp;[humanity](https://github.com/) 
+*(Replace with your actual link)*
+A platform designed to connect communities and streamline local initiatives.
+`Web App` &nbsp; `PHP` &nbsp; `MySQL`
+
+#### 🚀 &nbsp;[3290](https://github.com/)
+*(Replace with your actual link)*
+A 2D space shooter game featuring custom collision detection and native browser game loops.
+`Game Dev` &nbsp; `JavaScript`
+
+---
+
+### 04 &nbsp;|&nbsp; EXPERIENCE SNAPSHOT
+
+**PHP SQL Developer** @ BPIMS *(2024 - 2026)* <br>
+**Part Time College Instructor** @ Global Reciprocal Colleges *(2024 - 2026)* <br>
+**Jr. Software Programmer** @ Alliedbankers Insurance Corporation *(2019 - 2024)*
+
+---
+
+<div align="center">
+<i>Currently based in Manila, Philippines (GMT+8). Let's build something great.</i>
+</div>
